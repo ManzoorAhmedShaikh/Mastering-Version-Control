@@ -1,0 +1,41 @@
+# Team Members Directory
+
+Welcome to the **Mastering Version Control** workshop! This file will serve as our team directory throughout the program.
+
+## Instructions
+Please add your details below by following this format:
+- **Name:** Your full name
+- **Email:** Your email address
+- **Role/Background:** (e.g., Student, AI Engineer, Python Developer, Fresh Graduate)
+- **What you hope to learn:** Brief expectation or goal from this workshop
+
+---
+
+## My Entry (Example for you)
+
+- **Name:** Manzoor Ahmed
+- **Email:** manzoorahmedshaikh234@gmail.com
+- **Role/Background:** Python Developer
+- **What you hope to learn:** Master collaborative Git workflows, handle merge conflicts confidently, and to grasp advance concepts
+
+---
+
+## Workshop Participants
+
+### Participants:
+- **Name:** 
+- **Email:** 
+- **Role/Background:** 
+- **What you hope to learn:** 
+
+#### Repeat those 4 bullet points with your details...
+---
+
+## Tips for Your First Contribution
+1. clone this repo using `git clone <repo-link>`
+2. Add your details as I did mine and move them to staging environment using `git add team-members.md`
+3. Commit your changes using realistic and reasonable message `git commit -m "XYZ User first commit"`
+### BINGO!!!
+
+**Let's learn Git by doing Git!** 🚀
+

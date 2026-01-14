@@ -1,6 +1,6 @@
 # 🤖 Mastering Version Control
 
-Hands-on Git workshop for collaborative workflows
+Hands-on Git workshop for collaborative workflows 
 
 ## 🎯 What's This About?
 
@@ -88,5 +88,6 @@ this workshop, you'll wield that tool like a pro!
 Let's turn those scary terminal commands into your new superpowers! 💪
 
 ------------------------------------------------------------------------
+
 
 *Ready to commit to learning Git? Let's go!* 🚀👨‍💻👩‍💻

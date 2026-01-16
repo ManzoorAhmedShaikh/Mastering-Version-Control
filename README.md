@@ -1,4 +1,4 @@
-# 🤖 Mastering Version Control
+# 🤖    Mastering Version Control
     
 Hands-on Git workshop for collaborative workflows 
 

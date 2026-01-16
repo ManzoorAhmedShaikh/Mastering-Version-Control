@@ -1,0 +1,44 @@
+# LUNCH RECIPE
+
+---
+
+### Ranum’s “Demogorgon Biryani of Doom”
+
+
+** By: Ranum Khan*
+
+*Cooking Time: However long the Demogorgon hunts*
+
+**Difficulty: Forbidden by Hawkins Police*
+
+---
+
+**Ingredients:*
+
+1. Rice
+
+2. Chicken
+
+3. Spice level: Hawkins Lab EXPERIMENT 11
+
+4. Fried onions (cry while cutting them for effect)
+
+5. Aroma so strong Vecna senses it
+
+---
+
+**Instructions:*
+
+1. Marinate the chicken like you’re preparing a sacrifice.
+
+2. Layer rice + chicken + more rice + more chicken because balance doesn’t exist here.
+
+3. Let it steam until your entire house smells like a Netflix plot twist.
+
+4. Serve with raita and trauma.
+
+---
+
+**Why This Recipe?*
+
+If a Demogorgon ever chases me, I’m throwing this biryani at it. It will sit down and eat instead.

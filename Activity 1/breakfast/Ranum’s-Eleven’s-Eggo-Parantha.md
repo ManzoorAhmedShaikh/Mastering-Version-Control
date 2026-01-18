@@ -25,7 +25,7 @@
 
 5. Optional: Paglu’s brain cell (if found)
 
---
+---
 
 **Instructions:**
 

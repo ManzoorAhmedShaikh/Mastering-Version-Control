@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🤖    Mastering Version Control
     
+=======
+# 🤖 Mastering Version Control
+      
+>>>>>>> afa084f7316dc0a5e77f575770c75ac2301b6c9c
 =======
 # 🤖 Mastering Version Control
       

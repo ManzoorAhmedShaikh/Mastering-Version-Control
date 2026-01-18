@@ -5,15 +5,15 @@
 ### Ranum’s “Eleven’s Eggo Parantha”
 
 
-** By: Ranum Khan*
+**By: Ranum Khan**
 
 *Cooking Time: As fast as Eleven steals waffles*
 
-**Difficulty: Telekinetic*
+**Difficulty: Telekinetic**
 
 ---
 
-**Ingredients:*
+**Ingredients:**
 
 1. 2 paranthas (the normal kind, not the Upside Down kind… hopefully)
 
@@ -25,9 +25,9 @@
 
 5. Optional: Paglu’s brain cell (if found)
 
----
+--
 
-**Instructions:*
+**Instructions:**
 
 1. Heat the parantha while staring into the void dramatically.
 
@@ -41,6 +41,6 @@
 
 ---
 
-**Why This Recipe?*
+**Why This Recipe?**
 
 Because every morning, I wake up feeling like I survived the Upside Down and this parantha brings me back to life.

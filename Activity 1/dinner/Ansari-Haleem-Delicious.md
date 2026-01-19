@@ -12,6 +12,7 @@
 - Oil/Ghee: 1 cup (175ml)
 - Onion: 1 medium finely sliced
 - Shan Special Shahi Haleem Mix: 1 packet (Shan Special Haleem Masala is included in the packet)
+- Water: 15 cups
 
 ## Instructions:
 1. Heat half cup oil/ghee. Add meat, bones and Shan Special Haleem Masala. Stir-fry for few minutes. Then add 15 cups of water. Cover the pot or use a pressure cooker and cook until the meat is tender.

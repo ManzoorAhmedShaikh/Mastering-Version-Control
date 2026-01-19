@@ -1,6 +1,6 @@
 # Recipe Name
 
-**By: *Muhammad Taha Ansari*
+**By: *Muhammad Taha Ansari**
 
 **Cooking Time: *Almost 20 hour*
 

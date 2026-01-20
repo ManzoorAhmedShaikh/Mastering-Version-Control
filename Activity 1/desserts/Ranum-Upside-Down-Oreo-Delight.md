@@ -5,7 +5,7 @@
 ### Ranum’s “Upside Down Oreo Delight”
 
 
-** By: Ranum*
+** By: Ranum Khan*
 
 *Cooking Time: Faster than Dustin saying “Never-ending storyyyy”*
 

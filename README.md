@@ -1,5 +1,5 @@
 # 🤖 Mastering Version Control
-    
+         
 Hands-on Git workshop for collaborative workflows 
 
 ## 🎯 What's This About?

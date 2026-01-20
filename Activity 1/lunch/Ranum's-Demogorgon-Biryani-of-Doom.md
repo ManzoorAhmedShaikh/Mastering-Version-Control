@@ -5,7 +5,7 @@
 ### Ranum’s “Demogorgon Biryani of Doom”
 
 
-** By: Ranum*
+** By: Ranum Khan*
 
 *Cooking Time: However long the Demogorgon hunts*
 

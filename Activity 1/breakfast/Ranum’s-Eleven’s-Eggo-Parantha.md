@@ -5,7 +5,7 @@
 ### Ranum’s “Eleven’s Eggo Parantha”
 
 
-** By: Ranum*
+** By: Ranum Khan*
 
 *Cooking Time: As fast as Eleven steals waffles*
 

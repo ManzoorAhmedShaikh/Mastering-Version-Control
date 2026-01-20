@@ -5,7 +5,7 @@
 ### Ranum’s “Vecna’s Midnight Macaroni Madness”
 
 
-** By: Ranum*
+** By: Ranum Khan*
 
 *Cooking Time: Until the clock chimes four times*
 

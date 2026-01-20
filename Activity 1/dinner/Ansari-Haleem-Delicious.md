@@ -2,7 +2,11 @@
 
 **By:** *Muhammad Taha Ansari*
 
+<<<<<<< HEAD
 **Cooking Time:** *Almost 20 hour*
+=======
+**Cooking Time:** *2 Hrs and 20 Mins*
+>>>>>>> 173415749a84c2c16be455ca5adf3535d8d52cd7
 
 **Difficulty:** *Medium*
 

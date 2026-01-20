@@ -2,7 +2,7 @@
 
 **By: *Muhammad Taha Ansari*
 
-**Cooking Time: *Almost 20 hour*
+**Cooking Time: *2 Hrs and 20 Mins*
 
 **Difficulty: *Medium*
 

@@ -8,7 +8,7 @@
 **Difficulty:** *Medium*
 
 ## Ingredients:
-- Boneless: Meat 2500000000000g
+- Boneless: Meat 250g
 - Bones: 500g
 - Oil/Ghee: 1 cup (175ml)
 - Onion: 1 medium finely sliced

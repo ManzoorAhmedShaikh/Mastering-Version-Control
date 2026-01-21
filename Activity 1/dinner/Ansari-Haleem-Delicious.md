@@ -17,6 +17,11 @@
 * Shan Special Shahi Haleem Mix: 1 packet
 
 
+- Boneless: Meat 250g
+- Bones: 500g
+- Oil/Ghee: 1 cup (175ml)
+- Onion: 1 medium finely sliced
+- Shan Special Shahi Haleem Mix: 1 packet
 
 ## Instructions:
 

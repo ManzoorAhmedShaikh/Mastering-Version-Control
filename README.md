@@ -1,5 +1,9 @@
 # 🤖 Mastering Version Control
+<<<<<<< HEAD
+
+=======
       
+>>>>>>> a48656f1e6fe394a77a2fd1a27dce94a3e0d768d
 Hands-on Git workshop for collaborative workflows 
 
 ## 🎯 What's This About?

@@ -14,9 +14,8 @@
 * Bones: 500g
 * Oil/Ghee: 1 cup (175ml)
 * Onion: 1 medium finely sliced
-* Shan Special Shahi Haleem Mix: 1 packet
-
-
+* Shan Special Shahi Haleem Mix: 1 packet (Shan Special Haleem Masala included)
+* Water: 15 cups
 
 ## Instructions:
 

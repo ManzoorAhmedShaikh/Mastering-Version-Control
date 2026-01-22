@@ -9,12 +9,12 @@
 
 ## Ingredients:
 
-* Boneless Meat: 250g (Chicken, beef, or mutton)
-* Bones: 500g (Please take the bones of the same meat)
-* Oil/Ghee: 1 cup (175ml)
-* Onion: 1 medium finely sliced
-* Shan Special Shahi Haleem Mix: 1 packet (include the Shan Special Haleem Masala)
-* Water: 15 cups
+- Boneless: Meat 250g
+- Bones: 500g
+- Oil/Ghee: 1 cup (175ml)
+- Onion: 1 medium finely sliced
+- Shan Special Shahi Haleem Mix: 1 packet (Shan Special Haleem Masala is included in the packet)
+- Water: 15 cups
 
 ## Instructions:
 

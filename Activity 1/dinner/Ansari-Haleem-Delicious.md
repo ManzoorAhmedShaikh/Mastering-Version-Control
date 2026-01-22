@@ -5,7 +5,6 @@
 **Cooking Time:** *2 Hrs and 20 Mins*
 
 
-
 **Difficulty:** *Medium*
 
 ## Ingredients:
@@ -14,7 +13,7 @@
 * Bones: 500g (Please take the bones of the same meat)
 * Oil/Ghee: 1 cup (175ml)
 * Onion: 1 medium finely sliced
-* Shan Special Shahi Haleem Mix: 1 packet (Shan Special Haleem Masala included)
+* Shan Special Shahi Haleem Mix: 1 packet (include the Shan Special Haleem Masala)
 * Water: 15 cups
 
 ## Instructions:

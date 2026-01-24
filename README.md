@@ -51,8 +51,8 @@ superpowers:
 
 **Activity 0:** Getting comfortable with basic Git workflows\
 **Activity 1:** The Great Recipe Book Project\
-**Activity 2:** *Unlocking soon...* 🔒\
-**Activity 3:** *Mystery challenge awaits...* 🤫\
+**Activity 2:** *The Bug Hunt Challenge* 🔒\
+**Activity 3:** *Merge Conflict Battle Royale* 🤫\
 **And more!** Each session builds on the previous one, so you'll level
 up gradually.
 
@@ -91,3 +91,4 @@ Let's turn those scary terminal commands into your new superpowers! 💪
 
 
 *Ready to commit to learning Git? Let's go!* 🚀👨‍💻👩‍💻
+
